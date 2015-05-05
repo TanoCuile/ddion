@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/ddion.galleon.pro/webstat"
+AuthUserFile /var/www/fond/data/etc/821484.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

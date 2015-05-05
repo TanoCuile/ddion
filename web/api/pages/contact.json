@@ -1,0 +1,23 @@
+{
+    "title": "Contact",
+    "description": "Contact page",
+    "keywords": "",
+    "blocks": [
+        {
+            "type": "contact",
+            "id": "contact",
+            "title": "Contact",
+            "subTitle": "Show contacts",
+            "subTitleActive": "Hide contacts",
+            "position": "top-left",
+            "class": "black",
+            "showContent": true,
+            "phone": "+7(232)3223-23-23",
+            "bg": [
+                {
+                    "uri": "/img/pages/news-bg.png"
+                }
+            ]
+        }
+    ]
+}

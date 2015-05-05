@@ -1,0 +1,110 @@
+{
+    "title": "News",
+    "description": "News",
+    "keywords": "",
+    "blocks": [
+        {
+            "type": "news",
+            "id": "news",
+            "title": "News",
+            "subTitle": "See all",
+            "subTitleActive": "Hide news",
+            "position": "bottom-left",
+            "class": "black",
+            "bg": [
+                {
+                    "uri": "/img/pages/news-bg.png"
+                }
+            ],
+            "news": [
+                {
+                    "title": "First News",
+                    "description": "TEXT"
+                },
+                {
+                    "title": "Second News",
+                    "description": "TEXT"
+                },
+                {
+                    "title": "Third News",
+                    "description": "TEXT"
+                }
+            ]
+        },
+        {
+            "type": "photo",
+            "id": "photo",
+            "title": "#5",
+            "description": "TEST text",
+            "slides": [
+                {
+                    "uri": "/img/projects/2.JPG",
+                    "previewUri": "/img/projects/2.JPG",
+                    "title": "Title1"
+                },
+                {
+                    "uri": "/img/projects/3.JPG",
+                    "previewUri": "/img/projects/3.JPG",
+                    "title": "Title2"
+                },
+                {
+                    "uri": "/img/projects/1.jpg",
+                    "previewUri": "/img/projects/1.jpg",
+                    "title": "Title3"
+                },
+                {
+                    "uri": "/img/projects/4.JPG",
+                    "previewUri": "/img/projects/4.JPG",
+                    "title": "Title4"
+                },
+                {
+                    "uri": "/img/projects/5.JPG",
+                    "previewUri": "/img/projects/5.JPG",
+                    "title": "Title5"
+                },
+                {
+                    "uri": "/img/projects/6.JPG",
+                    "previewUri": "/img/projects/6.JPG",
+                    "title": "Title6"
+                },
+                {
+                    "uri": "/img/projects/2.JPG",
+                    "previewUri": "/img/projects/2.JPG",
+                    "title": "Title1"
+                },
+                {
+                    "uri": "/img/projects/3.JPG",
+                    "previewUri": "/img/projects/3.JPG",
+                    "title": "Title2"
+                },
+                {
+                    "uri": "/img/projects/1.jpg",
+                    "previewUri": "/img/projects/1.jpg",
+                    "title": "Title3"
+                },
+                {
+                    "uri": "/img/projects/4.JPG",
+                    "previewUri": "/img/projects/4.JPG",
+                    "title": "Title4"
+                },
+                {
+                    "uri": "/img/projects/5.JPG",
+                    "previewUri": "/img/projects/5.JPG",
+                    "title": "Title5"
+                },
+                {
+                    "uri": "/img/projects/6.JPG",
+                    "previewUri": "/img/projects/6.JPG",
+                    "title": "Title6"
+                }
+            ]
+        },
+        {
+            "type": "video",
+            "id": "video",
+            "title": "Video title",
+            "description": "video description",
+            "video": "https://www.youtube.com/watch?v=aHjpOzsQ9YI"
+        }
+    ]
+}

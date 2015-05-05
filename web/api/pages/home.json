@@ -1,0 +1,79 @@
+{
+    "title": "Home",
+    "description": "Home page",
+    "keywords": "",
+    "blocks": [
+        {
+            "type": "logo",
+            "id": "logo",
+            "bg": [
+                {
+                    "uri": "/img/pages/bg/1.jpg"
+                },
+                {
+                    "uri": "/img/pages/bg/2.jpg"
+                },
+                {
+                    "uri": "/img/pages/bg/3.jpg"
+                }
+            ],
+            "logo": {"uri": "/img/pages/logo-big.png"}
+        },
+        {
+            "type": "info",
+            "id": "news",
+            "title": "News",
+            "subTitle": "Show contacts",
+            "subTitleActive": "Hide contacts",
+            "href": "/news",
+            "position": "bottom-left",
+            "class": "white",
+            "bg": [
+                {
+                    "uri": "/img/pages/news-bg.png"
+                }
+            ]
+        },
+        {
+            "type": "info",
+            "id": "lab",
+            "title": "Lab",
+            "href": "/lab",
+            "position": "bottom-left",
+            "class": "black",
+            "bg": [
+                {
+                    "uri": "/img/pages/lab-bg.png"
+                }
+            ]
+        },
+        {
+            "type": "info",
+            "id": "project",
+            "title": "Project",
+            "href": "/project",
+            "subTitle": "Show project",
+            "subTitleActive": "Hide projects",
+            "position": "bottom-left",
+            "class": "black",
+            "bg": [
+                {
+                    "uri": "/img/pages/project-bg.png"
+                }
+            ]
+        },
+        {
+            "type": "info",
+            "id": "contact",
+            "title": "Contact",
+            "href": "/contact",
+            "position": "bottom-left",
+            "class": "black",
+            "bg": [
+                {
+                    "uri": "/img/pages/contact.png"
+                }
+            ]
+        }
+    ]
+}

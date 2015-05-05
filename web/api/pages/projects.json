@@ -1,0 +1,33 @@
+{
+    "title": "Projects",
+    "description": "Projects page",
+    "keywords": "",
+    "blocks": [
+        {
+            "type": "projects",
+            "id": "projects",
+            "concepts": [
+                {
+                    "id": 1,
+                    "title":"№5 concept",
+                    "bg": "/img/pages/bg/1.jpg"
+                },
+                {
+                    "id": 2,
+                    "title":"Slope concept",
+                    "bg": "/img/pages/bg/2.jpg"
+                },
+                {
+                    "id": 3,
+                    "title":"Casa concept",
+                    "bg": "/img/pages/bg/3.jpg"
+                },
+                {
+                    "id": 4,
+                    "title":"Stalactites concept",
+                    "bg": "/img/pages/bg/2.jpg"
+                }
+            ]
+        }
+    ]
+}

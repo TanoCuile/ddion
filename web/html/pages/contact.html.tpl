@@ -1,0 +1,1 @@
+<block-list page="contact_page"  block_height="blockHeight"></block-list>

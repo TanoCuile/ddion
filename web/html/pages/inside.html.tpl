@@ -1,0 +1,1 @@
+<block-list page="inside_page"  block_height="blockHeight"></block-list>

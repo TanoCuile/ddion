@@ -1,0 +1,165 @@
+{
+    "title": "Home",
+    "description": "Home page",
+    "keywords": "",
+    "blocks": [
+        {
+            "type": "logo",
+            "id": "logo",
+            "bg": [
+                {
+                    "uri": "/img/pages/bg/1.jpg"
+                },
+                {
+                    "uri": "/img/pages/bg/2.jpg"
+                },
+                {
+                    "uri": "/img/pages/bg/3.jpg"
+                }
+            ],
+            "logo": {"uri": "/img/pages/logo-big.png"}
+        },
+        {
+            "type": "slider",
+            "id": "logo2",
+            "bg": [
+                {
+                    "uri": "/img/pages/3.jpg"
+                }
+            ],
+            "slides": [
+                {
+                    "uri": "/img/projects/2.JPG",
+                    "previewUri": "/img/projects/2.JPG",
+                    "title": "Title1"
+                },
+                {
+                    "uri": "/img/projects/3.JPG",
+                    "previewUri": "/img/projects/3.JPG",
+                    "title": "Title2"
+                },
+                {
+                    "uri": "/img/projects/1.jpg",
+                    "previewUri": "/img/projects/1.jpg",
+                    "title": "Title3"
+                },
+                {
+                    "uri": "/img/projects/4.JPG",
+                    "previewUri": "/img/projects/4.JPG",
+                    "title": "Title4"
+                },
+                {
+                    "uri": "/img/projects/5.JPG",
+                    "previewUri": "/img/projects/5.JPG",
+                    "title": "Title5"
+                },
+                {
+                    "uri": "/img/projects/6.JPG",
+                    "previewUri": "/img/projects/6.JPG",
+                    "title": "Title6"
+                },
+                {
+                    "uri": "/img/projects/2.JPG",
+                    "previewUri": "/img/projects/2.JPG",
+                    "title": "Title1"
+                },
+                {
+                    "uri": "/img/projects/3.JPG",
+                    "previewUri": "/img/projects/3.JPG",
+                    "title": "Title2"
+                },
+                {
+                    "uri": "/img/projects/1.jpg",
+                    "previewUri": "/img/projects/1.jpg",
+                    "title": "Title3"
+                },
+                {
+                    "uri": "/img/projects/4.JPG",
+                    "previewUri": "/img/projects/4.JPG",
+                    "title": "Title4"
+                },
+                {
+                    "uri": "/img/projects/5.JPG",
+                    "previewUri": "/img/projects/5.JPG",
+                    "title": "Title5"
+                },
+                {
+                    "uri": "/img/projects/6.JPG",
+                    "previewUri": "/img/projects/6.JPG",
+                    "title": "Title6"
+                }
+            ]
+        },
+        {
+            "type": "news",
+            "id": "news",
+            "title": "News",
+            "subTitle": "See all",
+            "subTitleActive": "Hide news",
+            "position": "bottom-left",
+            "class": "black",
+            "bg": [
+                {
+                    "uri": "/img/pages/news-bg.png"
+                }
+            ],
+            "news": [
+                {
+                    "title": "First News",
+                    "description": "TEXT"
+                },
+                {
+                    "title": "Second News",
+                    "description": "TEXT"
+                },
+                {
+                    "title": "Third News",
+                    "description": "TEXT"
+                }
+            ]
+        },
+        {
+            "type": "info",
+            "id": "info1",
+            "position": "center",
+            "class": "black",
+            "bg": [
+                {
+                    "uri": "/img/pages/index-bg1.jpg"
+                },
+                {
+                    "uri": "/img/projects/2.JPG",
+                    "previewUri": "/img/projects/2.JPG",
+                    "title": "Title1"
+                },
+                {
+                    "uri": "/img/projects/3.JPG",
+                    "previewUri": "/img/projects/3.JPG",
+                    "title": "Title2"
+                },
+                {
+                    "uri": "/img/projects/1.jpg",
+                    "previewUri": "/img/projects/1.jpg",
+                    "title": "Title3"
+                }
+            ],
+            "title": "INSIDE",
+            "data": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+        },
+        {
+            "type": "contact",
+            "id": "contact",
+            "title": "Contact",
+            "subTitle": "Show contacts",
+            "phone": "+7(232)3223-23-23",
+            "subTitleActive": "Hide contacts",
+            "position": "top-left",
+            "class": "white",
+            "bg": [
+                {
+                    "uri": "/img/pages/contact.png"
+                }
+            ]
+        }
+    ]
+}

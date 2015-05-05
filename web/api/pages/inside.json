@@ -1,0 +1,35 @@
+{
+    "title": "Inside",
+    "description": "Inside",
+    "keywords": "",
+    "blocks": [
+        {
+            "type": "info",
+            "id": "info1",
+            "position": "center",
+            "class": "black",
+            "bg": [
+                {
+                    "uri": "/img/pages/index-bg1.jpg"
+                },
+                {
+                    "uri": "/img/projects/2.JPG",
+                    "previewUri": "/img/projects/2.JPG",
+                    "title": "Title1"
+                },
+                {
+                    "uri": "/img/projects/3.JPG",
+                    "previewUri": "/img/projects/3.JPG",
+                    "title": "Title2"
+                },
+                {
+                    "uri": "/img/projects/1.jpg",
+                    "previewUri": "/img/projects/1.jpg",
+                    "title": "Title3"
+                }
+            ],
+            "title": "INSIDE",
+            "data": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+        }
+    ]
+}
